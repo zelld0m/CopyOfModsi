@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyOfModsi", "CopyOfModsi\CopyOfModsi.csproj", "{F3459C45-B56B-4FC9-977B-2CC3ED20EEAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3459C45-B56B-4FC9-977B-2CC3ED20EEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3459C45-B56B-4FC9-977B-2CC3ED20EEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3459C45-B56B-4FC9-977B-2CC3ED20EEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3459C45-B56B-4FC9-977B-2CC3ED20EEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D77B6967-9887-472A-838D-CA2F6C7FEE45}
+	EndGlobalSection
+EndGlobal
